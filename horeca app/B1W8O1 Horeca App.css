@@ -1,0 +1,12 @@
+body{
+background-image: url("images/lato-coffee-bar.jpg");
+margin: 0 auto;
+background-size: cover;
+}
+#bestellen{
+	margin-left: 660px;
+	margin-top: 320px;
+	padding: 5px;
+	color:black;
+	background-color:lightgrey;
+}
